@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300;400&family=Roboto:wght@300&display=swap');
+
+.product-info h2{
+    /* border: solid; */
+    /* padding-left: 65px; */
+    font-size: 25px;
+    color:rgb(0,0,0);
+}
+.product-info{
+    /* border: solid; */
+    text-align: center;
+}
+.eshopper{
+    color: #ffca2c;
+    
+}
+.slider-content h1{
+    font-size: 80px;
+}
+.slider-content{
+    /* border: solid; */
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.slider-content p{
+    color: rgb(100,100,100);
+}
+  
+.slider-content span{
+    color: #ffca2c;
+}
